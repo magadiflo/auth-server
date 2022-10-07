@@ -4,5 +4,8 @@ querer conectarnos a la base de datos con MongoDB Compass<br>
 Ir al menú Network Access del panel en la web de mongodb<br>
 Agregar una IP Address, la de la pc
 
+## Ejecutar backend en desarrollo
 
-
+```
+npm run dev
+```
